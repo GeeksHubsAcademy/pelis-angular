@@ -1,10 +1,13 @@
 # Películas angular
 
-[ x ] Movies by category
-[ x ] Search Movies
+[x] Movies by category
+
+[x] Search Movies
 
 ## TO DO:
 - [ ] Movies detail
   - [ ] Actors from a movie
      - [ ] Actor Detail
 - [ ] Filter movies by genres
+- [ ] 404 error page
+- [ ] Paginación
