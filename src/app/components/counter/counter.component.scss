@@ -1,0 +1,21 @@
+p,
+button {
+    padding: 0.7em;
+}
+
+input {
+    all: unset;
+    padding: 0.9em;
+    margin: 0.5em;
+    border-radius: 0.5em;
+    border: 1px solid black;
+    background-color: rgb(1, 39, 65);
+}
+
+.ng-touched.ng-dirty.ng-valid {
+    border-color: green;
+}
+
+.ng-touched.ng-invalid {
+    border-color: red
+}
