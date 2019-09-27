@@ -1,8 +1,8 @@
 # Películas angular
 
-[x] Movies by category
+- [x] Movies by category
 
-[x] Search Movies
+- [x] Search Movies
 
 ## TO DO:
 - [ ] Movies detail
